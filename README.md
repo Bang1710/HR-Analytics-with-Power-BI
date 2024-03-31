@@ -77,7 +77,7 @@ We’ll finalize the case study by making design changes to our report that prov
 
 
 
-## III. Case study goals
+## III. Goals
 + Primary goal: Monitor key HR metrics on employees
 + Secondary goal: Understand what factors impact attrition
 
@@ -93,9 +93,9 @@ We’ll finalize the case study by making design changes to our report that prov
 + 'Mixed or multiple ethnic groups' have one of the lowest average salaries.
 
 ## V. Entity Relationship Diagram
-![ERD]()
+![ERD](https://github.com/Bang1710/HR-Analytics-with-Power-BI/blob/main/ERD/ERD.png)
 ## VI. Dashboard
-![Dashboard part 01]()
-![Dashboard part 02]()
-![Dashboard part 03]()
-![Dashboard part 04]()
+![Dashboard part 01](https://github.com/Bang1710/HR-Analytics-with-Power-BI/blob/main/Dashboard/DB1.png)
+![Dashboard part 02](https://github.com/Bang1710/HR-Analytics-with-Power-BI/blob/main/Dashboard/DB2.png)
+![Dashboard part 03](https://github.com/Bang1710/HR-Analytics-with-Power-BI/blob/main/Dashboard/DB3.png)
+![Dashboard part 04](https://github.com/Bang1710/HR-Analytics-with-Power-BI/blob/main/Dashboard/DB4.png)
